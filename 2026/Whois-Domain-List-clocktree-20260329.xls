@@ -1,0 +1,485 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="https://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List
+href="Whois-Domain-List-회원ID-20080703.files/filelist.xml">
+<link rel=Edit-Time-Data
+href="Whois-Domain-List-회원ID-20080703.files/editdata.mso">
+<link rel=OLE-Object-Data
+href="Whois-Domain-List-회원ID-20080703.files/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>사원</o:LastAuthor>
+  <o:LastPrinted>2005-07-04T00:57:31Z</o:LastPrinted>
+  <o:Created>1997-01-10T04:21:27Z</o:Created>
+  <o:LastSaved>2008-07-03T07:49:19Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Tahoma, 굴림, sans-serif;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:표준;
+	mso-style-id:0;}
+.style21
+	{color:blue;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Tahoma, 굴림, sans-serif;
+	mso-font-charset:0;
+	mso-style-name:하이퍼링크;
+	mso-style-id:8;}
+a:link
+	{color:blue;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Tahoma, 굴림, sans-serif;
+	mso-font-charset:0;}
+a:visited
+	{color:purple;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Tahoma, 굴림, sans-serif;
+	mso-font-charset:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Tahoma, 굴림, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	background:white;
+	mso-pattern:auto none;}
+.xl25
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	text-align:center;
+	background:white;
+	mso-pattern:auto none;}
+.xl26
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-weight:700;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt hairline windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt hairline windowtext;
+	background:#FFFFCC;
+	mso-pattern:auto none;}
+.xl27
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-weight:700;
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt hairline windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#FFFFCC;
+	mso-pattern:auto none;}
+.xl28
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt hairline windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt hairline windowtext;
+	background:white;
+	mso-pattern:auto none;}
+.xl29
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	border-top:none;
+	border-right:.5pt hairline windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:auto none;}
+.xl30
+	{mso-style-parent:style21;
+	color:blue;
+	font-size:9.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	background:white;
+	mso-pattern:auto none;}
+.xl31
+	{mso-style-parent:style21;
+	color:blue;
+	font-size:9.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	border-top:none;
+	border-right:.5pt hairline windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:auto none;}
+.xl32
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	text-align:center;
+	border-top:none;
+	border-right:.5pt hairline windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:auto none;}
+.xl33
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-weight:700;
+	mso-number-format:"yyyy\0022\/\0022m\0022\/\0022d\;\@";
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt hairline windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#FFFFCC;
+	mso-pattern:auto none;}
+.xl34
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	mso-number-format:"yyyy\0022\/\0022m\0022\/\0022d\;\@";
+	text-align:center;
+	border-top:none;
+	border-right:.5pt hairline windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:auto none;}
+.xl35
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	mso-number-format:"yyyy\0022\/\0022m\0022\/\0022d\;\@";
+	text-align:center;
+	background:white;
+	mso-pattern:auto none;}
+.xl36
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	font-weight:700;
+	mso-number-format:"\#\,\#\#0_ ";
+	text-align:center;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt hairline windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#FFFFCC;
+	mso-pattern:auto none;}
+.xl37
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	mso-number-format:"\#\,\#\#0_ ";
+	text-align:center;
+	border-top:none;
+	border-right:.5pt hairline windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:auto none;}
+.xl38
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	mso-number-format:"\#\,\#\#0_ ";
+	text-align:center;
+	background:white;
+	mso-pattern:auto none;}
+.xl39
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	mso-number-format:"\#\,\#\#0_ ";
+	text-align:center;
+	border-top:none;
+	border-right:.5pt hairline windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:none;
+	background:#FF99CC;
+	mso-pattern:auto none;}
+.xl40
+	{mso-style-parent:style21;
+	color:blue;
+	font-size:9.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	border-top:none;
+	border-right:.5pt hairline windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:none;
+	background:#FF99CC;
+	mso-pattern:auto none;}
+.xl41
+	{mso-style-parent:style0;
+	font-size:9.0pt;
+	mso-number-format:"yyyy\0022\/\0022m\0022\/\0022d\;\@";
+	text-align:center;
+	border-top:none;
+	border-right:.5pt hairline windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:none;
+	background:#FF99CC;
+	mso-pattern:auto none;}
+
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Tahoma, 굴림, sans-serif;
+	mso-font-charset:129;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet1</x:Name>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>342</x:DefaultRowHeight>
+     <x:Unsynced/>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>600</x:HorizontalResolution>
+      <x:VerticalResolution>600</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>12</x:ActiveRow>
+       <x:ActiveCol>7</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet2</x:Name>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>285</x:DefaultRowHeight>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet3</x:Name>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>285</x:DefaultRowHeight>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>8775</x:WindowHeight>
+  <x:WindowWidth>10545</x:WindowWidth>
+  <x:WindowTopX>480</x:WindowTopX>
+  <x:WindowTopY>90</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+ <x:PublishObjects>
+  <x:PublishObject>
+   <x:Id>31171</x:Id>
+   <x:DivID>Book1_31171</x:DivID>
+   <x:SourceType>SourceWorkbook</x:SourceType>
+   <x:HtmlType>HtmlCalc</x:HtmlType>
+   <x:Location HRef="C:\Documents and Settings\Administrator\바탕 화면\데이터백업용.htm"/>
+  </x:PublishObject>
+ </x:PublishObjects>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple class=xl24>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1739 style='border-collapse:
+ collapse;table-layout:fixed;width:1081pt'>
+ <col class=xl25 width=39 style='mso-width-source:userset;mso-width-alt:1248;
+ width:29pt'>
+ <col class=xl24 width=218 style='mso-width-source:userset;mso-width-alt:6976;
+ width:164pt'>
+ <col class=xl24 width=152 style='mso-width-source:userset;mso-width-alt:4864;
+ width:114pt'>
+ <col class=xl24 width=300 style='mso-width-source:userset;mso-width-alt:6864;
+ width:114pt'>
+ <col class=xl24 width=190 style='mso-width-source:userset;mso-width-alt:6080;
+ width:143pt'>
+ <col class=xl35 width=92 span=2 style='mso-width-source:userset;mso-width-alt:
+ 2944;width:69pt'>
+ <col class=xl38 width=85 style='mso-width-source:userset;mso-width-alt:2720;
+ width:64pt'>
+ <col class=xl25 width=137 span=2 style='mso-width-source:userset;mso-width-alt:
+ 4384;width:103pt'>
+ <col class=xl24 width=137 style='mso-width-source:userset;mso-width-alt:4384;
+ width:103pt'>
+ <col class=xl24 width=160 style='mso-width-source:userset;mso-width-alt:5120;
+ width:120pt'>
+ <tr height=22 style='mso-height-source:userset;height:17.1pt'>
+  <td height=22 class=xl26 width=39 style='height:17.1pt;width:29pt'>no</td>
+  <td class=xl27 width=218 style='width:164pt'>도메인명</td>
+  <td class=xl27 width=152 style='width:114pt'>소유자명</td>
+  <td class=xl27 width=300 style='width:114pt'>.kr 등록자격 정보</td>
+  <td class=xl27 width=190 style='width:143pt'>소유자 e메일</td>
+  <td class=xl33 width=92 style='width:69pt'>등록일</td>
+  <td class=xl33 width=92 style='width:69pt'>만료일</td>
+  <td class=xl36 width=85 style='width:64pt'>잔여기간</td>
+  <td class=xl27 width=137 style='width:103pt'>NS 1</td>
+  <td class=xl27 width=137 style='width:103pt'>NS 2</td>
+  <td class=xl27 width=137 style='width:103pt'>NS 3</td>
+  <td class=xl27 width=160 style='width:120pt'>NS 4</td>
+ </tr>
+	
+ <tr height=22 style='mso-height-source:userset;height:17.1pt'>
+  <td height=22 class=xl28 class=xl37 style='height:17.1pt' x:num>1</td>
+  <td class=xl29 class=xl37>jeegeum.com</td>
+  <td class=xl29 class=xl37>Lee.HyunSup</td>
+  <td class=xl29 class=xl37>-</td>
+  <td class=xl31><a href="mailto:clocktree@live.co.kr"><span style='font-size:
+  9.0pt'>clocktree@live.co.kr</span></a></td>
+  <td class=xl34  x:num="">2026/03/28</td>
+  <td class=xl34  x:num="">2031/03/28</td>
+  <td class=xl37 x:num="1825">1825 </td>
+  <td class=xl32 class=xl37>ns1.whoisdomain.kr</td>
+  <td class=xl32 class=xl37>ns2.whoisdomain.kr</td>
+  <td class=xl32 class=xl37>ns3.whoisdomain.kr</td>
+  <td class=xl32 class=xl37>ns4.whoisdomain.kr</td>
+ </tr>
+	
+ <tr height=22 style='mso-height-source:userset;height:17.1pt'>
+  <td height=22 class=xl28 class=xl37 style='height:17.1pt' x:num>2</td>
+  <td class=xl29 class=xl37>clocktree.co.kr</td>
+  <td class=xl29 class=xl37>LeeHyunSup</td>
+  <td class=xl29 class=xl37>-</td>
+  <td class=xl31><a href="mailto:clocktree@live.co.kr"><span style='font-size:
+  9.0pt'>clocktree@live.co.kr</span></a></td>
+  <td class=xl34  x:num="">2024/11/12</td>
+  <td class=xl34  x:num="">2027/11/12</td>
+  <td class=xl37 x:num="593">593 </td>
+  <td class=xl32 class=xl37>ns1.whoisdomain.kr</td>
+  <td class=xl32 class=xl37>ns2.whoisdomain.kr</td>
+  <td class=xl32 class=xl37>ns3.whoisdomain.kr</td>
+  <td class=xl32 class=xl37>ns4.whoisdomain.kr</td>
+ </tr>
+	
+ <tr height=22 style='mso-height-source:userset;height:17.1pt'>
+  <td height=22 class=xl25 style='height:17.1pt'>　</td>
+  <td colspan=2 class=xl24 style='mso-ignore:colspan'>　</td>
+  <td class=xl30><u style='visibility:hidden;mso-ignore:visibility'>　</u></td>
+  <td colspan=2 class=xl35 style='mso-ignore:colspan'>　</td>
+  <td class=xl38>　</td>
+  <td colspan=2 class=xl25 style='mso-ignore:colspan'>　</td>
+  <td colspan=2 class=xl24 style='mso-ignore:colspan'>　</td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:17.1pt'>
+  <td height=22 class=xl24 colspan=2 style='height:17.1pt;mso-ignore:colspan'>관리
+  계정 회원명: 이현섭</td>
+  <td class=xl24>　</td>
+  <td class=xl30><u style='visibility:hidden;mso-ignore:visibility'>　</u></td>
+  <td colspan=2 class=xl35 style='mso-ignore:colspan'>　</td>
+  <td class=xl38>　</td>
+  <td colspan=2 class=xl25 style='mso-ignore:colspan'>　</td>
+  <td colspan=2 class=xl24 style='mso-ignore:colspan'>　</td>
+ </tr>
+ <tr height=22 style='mso-height-source:userset;height:17.1pt'>
+  <td height=22 class=xl24 colspan=2 style='height:17.1pt;mso-ignore:colspan'>자산
+  리스트 생성일자: 2026/03/29</td>
+  <td class=xl24>　</td>
+  <td class=xl30><u style='visibility:hidden;mso-ignore:visibility'>　</u></td>
+  <td colspan=2 class=xl35 style='mso-ignore:colspan'>　</td>
+  <td class=xl38>　</td>
+  <td colspan=2 class=xl25 style='mso-ignore:colspan'>　</td>
+  <td colspan=2 class=xl24 style='mso-ignore:colspan'>　</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=39 style='width:29pt'></td>
+  <td width=218 style='width:164pt'></td>
+  <td width=152 style='width:114pt'></td>
+  <td width=190 style='width:143pt'></td>
+  <td width=92 style='width:69pt'></td>
+  <td width=92 style='width:69pt'></td>
+  <td width=85 style='width:64pt'></td>
+  <td width=137 style='width:103pt'></td>
+  <td width=137 style='width:103pt'></td>
+  <td width=137 style='width:103pt'></td>
+  <td width=160 style='width:120pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
